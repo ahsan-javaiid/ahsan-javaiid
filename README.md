@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ahsan Javaid!
 
-I'm **Web & Blockchain** ***Architect*** 🚀 from Lahore, Pakistan
+I'm **Web & Blockchain** ***Architect*** 🚀
 
 **About Me!**
 
