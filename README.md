@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Ahsan Javaid!
 
-I'm **Web & Blockchain** ***Architect*** 🚀
+I'm **Staff Software Engineer - GTM/Integrations** ***/Distributed Systems*** 🚀
 
 **About Me!**
 
-- 💻 Lead software engineer (November, 2019 - Present)
+- 💻 Staff software engineer - GTM/Integrations (May, 2022 - Present)
+- 💻 Lead software engineer (November, 2019 - April 2022)
 - 💻 Senior software engineer (Nov, 2016 - Oct, 2019)
 - 💻 Software engineer (Aug, 2015 - Nov, 2016)
 - 🔭 Blockchain experience: stacks-blockchain, ethereum, solidity, hardhat, rust
