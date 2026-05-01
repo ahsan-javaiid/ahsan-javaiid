@@ -8,7 +8,7 @@ I'm **Staff Software Engineer - GTM/Integrations** ***/Distributed Systems*** �
 - 💻 Lead software engineer (November, 2019 - April 2022)
 - 💻 Senior software engineer (Nov, 2016 - Oct, 2019)
 - 💻 Software engineer (Aug, 2015 - Nov, 2016)
-- 🔭 Blockchain experience: stacks-blockchain, ethereum, solidity, hardhat, rust
+- 🔭 Blockchain experience: rsk, ethereum, solidity, hardhat, rust
 - 🌱 Backend experience: TypeScript, Node JS, Golang, AWS Serverless, GraphQL
 - 💰 Crypto experience: noble-secp256k1 & elliptic-curve 
 - 👯 Databases experience: MongoDB, Postgres, Sequelize, DynamoDB, RDS
