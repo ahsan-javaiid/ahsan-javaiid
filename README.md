@@ -15,8 +15,6 @@ I'm **Staff Software Engineer - GTM/Integrations** ***/Distributed Systems*** �
 - 🤔 Frontend experience: React JS, Redux, Angular
 - 🔨 TDD, Jest, CI/CD, Docker, 12 factor apps
 - 📫 How to reach me: mister.ahsan.javaid@gmail.com
-- <a href="https://www.linkedin.com/in/ahsan-javaid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /> Linkedin</a>
-
 
 **Languages and Tools:**  🛠️
 
