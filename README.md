@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Ahsan Javaid!
+### 👋 I'm Ahsan Javaid!
 
-I'm **Software Engineer - GTM/Integrations** ***/Distributed Systems*** 🚀
+**Software Engineer - GTM/Integrations** ***/Distributed Systems*** 🚀
 
 **About Me!**
 
